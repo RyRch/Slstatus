@@ -1,0 +1,2 @@
+# Slstatus
+Suckless Slstatus
